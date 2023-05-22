@@ -15,7 +15,7 @@
 - 📫 My Portfolio https://github.com/abhithemauryas/abhithemaurya.io
 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jloSjbo9NJfalZAUVfvr/view?usp=sharing](https://drive.google.com/file/d/1jloSj0CXL-dyYhVvHboiew?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/10NprBmsfef_r0tCVm99hveokDNO2Grka/view?usp=share_link](https://drive.google.com/file/d/10NprBmsfef_r0tCVm99hveokDNO2Grka/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,7 +29,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faiyaz7070&show_icons=true&locale=en&layout=compact" alt="faiyaz7070" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faiyaz7070&show_icons=true&locale=en" alt="faiyaz7070" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faiyaz7070&" alt="faiyaz7070" /></p>
 
