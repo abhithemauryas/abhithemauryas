@@ -12,7 +12,7 @@
 - 💬 Ask me about **Express,mongoDB,mongoose**
 
 - 📫 How to reach me **abhithemauryas5@gmail.com**
-- 🪪 Check My protfolio :- **https://github.com/abhithemauryas/abhithemauryas.io**
+- 🪪 Check My protfolio :- **https://github.com/abhithemauryas/abhithemauryas.github.io**
 - 📄 Know about my experiences:- <a href="https://drive.google.com/file/d/1DfzIqXCfVaIteZhoz-q9-4ohq6-WlZ3e/view?usp=sharing" alt="resume">Resume</a>
 <br/>
 <br/>
